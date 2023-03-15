@@ -5,11 +5,7 @@
       sm="6"
       xl="8"
       class="p-5 d-none d-sm-flex justify-content-center align-items-center background-container"
-      style="
-         {
-          background-image: url('https://source.unsplash.com/random/1920x1080/?computer');
-        }
-      "
+      style="background-image: url('https://source.unsplash.com/random/1920x1080/?computer');"
     ></b-col>
     <b-col
       cols="12"
