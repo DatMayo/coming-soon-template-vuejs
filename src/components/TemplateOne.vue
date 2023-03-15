@@ -7,7 +7,7 @@
       class="p-5 d-none d-sm-flex justify-content-center align-items-center background-container"
       style="
          {
-          backgroundimage: url('https://source.unsplash.com/random/1920x1080/?computer');
+          background-image: url('https://source.unsplash.com/random/1920x1080/?computer');
         }
       "
     ></b-col>
